@@ -8,3 +8,4 @@
 - Партнёрская ссылка WebHost1.Ru - `https://webhost1.ru/?r=86195`
 - Партнёрская ссылка Forex.Com - `https://fornex.com/c/ff1xlf/`
 - Партнёрская ссылка Hoster.Ru - `https://www.hoster.ru/?from=0JQyMDU4ODM=`
+- Партнёрская ссылка HotHat.Ru - `https://www.hothat.ru/?ref=18304`
