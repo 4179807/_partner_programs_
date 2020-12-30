@@ -5,3 +5,4 @@
 - Партнёрская ссылка Jino.Ru - `https://jino.ru/?pl=fc5629f1`
 - Партнёрская ссылка JustHost.Ru - `https://justhost.ru/?ref=86426`
 - Партнёрский код Sweb.Ru - `cuasheek`
+- Пратнёрская ссылка WebHost1.Ru- `https://webhost1.ru/?r=86195`
