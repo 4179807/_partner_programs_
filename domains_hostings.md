@@ -16,3 +16,4 @@
 - Партнёрский код Reg.Ru - `https://www.reg.ru/?rlink=reflink-6238381`
 - Партнёрский код Reg.Ru (регистрация доменов) - `https://www.reg.ru/domain/new/?rlink=reflink-6238381`
 - Партнёрский код Reg.Ru (заказ хостинга) - `https://www.reg.ru/hosting/?rlink=reflink-6238381`
+- Партнёрский код TimeWeb.Ru - `https://timeweb.com/ru/?i=61749`
