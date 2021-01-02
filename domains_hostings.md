@@ -13,7 +13,9 @@
 - Партнёрская ссылка Coopertino.Ru - `https://coopertino.ru/?from=10263`
 - Партнёрская ссылка FirstVDS.Ru - `https://firstvds.ru/?from=160708`
 - Партнёрский код FirstVDS.Ru - `648160708`
-- Партнёрский код Reg.Ru - `https://www.reg.ru/?rlink=reflink-6238381`
-- Партнёрский код Reg.Ru (регистрация доменов) - `https://www.reg.ru/domain/new/?rlink=reflink-6238381`
-- Партнёрский код Reg.Ru (заказ хостинга) - `https://www.reg.ru/hosting/?rlink=reflink-6238381`
-- Партнёрский код TimeWeb.Ru - `https://timeweb.com/ru/?i=61749`
+- Партнёрская ссылка Reg.Ru - `https://www.reg.ru/?rlink=reflink-6238381`
+- Партнёрская ссылка Reg.Ru (регистрация доменов) - `https://www.reg.ru/domain/new/?rlink=reflink-6238381`
+- Партнёрская ссылка Reg.Ru (заказ хостинга) - `https://www.reg.ru/hosting/?rlink=reflink-6238381`
+- Партнёрскийая ссылка TimeWeb.Ru - `https://timeweb.com/ru/?i=61749`
+- Партнёрскийая ссылка RusOnyx.Ru - `https://my.rusonyx.ru/billmgr?p=30000019`
+- Партнёрский код RusOnyx.Ru - `referral_30000019`
