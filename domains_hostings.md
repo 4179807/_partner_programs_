@@ -11,3 +11,5 @@
 - Партнёрская ссылка HotHat.Ru - `https://www.hothat.ru/?ref=18304`
 - Партнёрская ссылка Hostka.Net - `http://hostka.net/billing/pl.php?1204`
 - Партнёрская ссылка Coopertino.Ru - `https://coopertino.ru/?from=10263`
+- Партнёрская ссылка FirstVDS.Ru - `https://firstvds.ru/?from=160708`
+- Партнёрский код FirstVDS.Ru - `648160708`
