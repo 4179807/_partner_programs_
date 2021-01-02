@@ -13,3 +13,6 @@
 - Партнёрская ссылка Coopertino.Ru - `https://coopertino.ru/?from=10263`
 - Партнёрская ссылка FirstVDS.Ru - `https://firstvds.ru/?from=160708`
 - Партнёрский код FirstVDS.Ru - `648160708`
+- Партнёрский код Reg.Ru - `https://www.reg.ru/?rlink=reflink-6238381`
+- Партнёрский код Reg.Ru (регистрация доменов) - `https://www.reg.ru/domain/new/?rlink=reflink-6238381`
+- Партнёрский код Reg.Ru (заказ хостинга) - `https://www.reg.ru/hosting/?rlink=reflink-6238381`
