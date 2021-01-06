@@ -19,3 +19,4 @@
 - Партнёрскийая ссылка TimeWeb.Ru - `https://timeweb.com/ru/?i=61749`
 - Партнёрскийая ссылка RusOnyx.Ru - `https://my.rusonyx.ru/billmgr?p=30000019`
 - Партнёрский код RusOnyx.Ru - `referral_30000019`
+- Партнёрская ссылка Hostinger.Ru - `https://www.hostg.xyz/aff_c?offer_id=265&aff_id=62066`
